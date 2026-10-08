@@ -1,0 +1,325 @@
+{
+ "marmo-portoro": {
+  "tipo": "texture",
+  "w": 1080,
+  "h": 1230,
+  "fonte": "reel IG 05/08/2025 DM_BuIzoKnz, frame 1.1s"
+ },
+ "ricci-frangia": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "onde-scure-a": {
+  "tipo": "foto",
+  "w": 1152,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1152
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "onde-scure-b": {
+  "tipo": "foto",
+  "w": 1152,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1152
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "biondo-schiena": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "rame-schiena": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "balayage-schiena": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "uomo-retro": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "uomo-profilo": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "balayage-sorriso": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "rame-liscio": {
+  "tipo": "foto",
+  "w": 1536,
+  "h": 2048,
+  "larghezze": [
+   480,
+   900,
+   1500
+  ],
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "pd1-prima": {
+  "tipo": "foto",
+  "w": 3024,
+  "h": 4032,
+  "larghezze": [
+   480,
+   900
+  ],
+  "fonte": "IG 29/09/2026 Dd3pFC2DPow (carosello)"
+ },
+ "pd1-dopo": {
+  "tipo": "foto",
+  "w": 3024,
+  "h": 4032,
+  "larghezze": [
+   480,
+   900
+  ],
+  "fonte": "IG 29/09/2026 Dd3pFC2DPow (carosello)"
+ },
+ "pd2-prima": {
+  "tipo": "foto",
+  "w": 3024,
+  "h": 4032,
+  "larghezze": [
+   480,
+   900
+  ],
+  "fonte": "IG 29/08/2026 DcoGjGGDEzv (carosello)"
+ },
+ "pd2-dopo": {
+  "tipo": "foto",
+  "w": 3024,
+  "h": 4018,
+  "larghezze": [
+   480,
+   900
+  ],
+  "fonte": "IG 29/08/2026 DcoGjGGDEzv (carosello)"
+ },
+ "pd3-prima": {
+  "tipo": "foto",
+  "w": 3072,
+  "h": 4096,
+  "larghezze": [
+   480,
+   900
+  ],
+  "fonte": "IG 08/08/2026 Dbx5hvvjEtI (carosello)"
+ },
+ "pd3-dopo": {
+  "tipo": "foto",
+  "w": 3024,
+  "h": 4032,
+  "larghezze": [
+   480,
+   900
+  ],
+  "fonte": "IG 08/08/2026 Dbx5hvvjEtI (carosello)"
+ },
+ "federico-al-lavoro": {
+  "tipo": "foto",
+  "w": 1440,
+  "h": 1920,
+  "larghezze": [
+   480,
+   900,
+   1440
+  ],
+  "fonte": "IG 10/09/2026 DdG9WqSsxK6"
+ },
+ "firma": {
+  "tipo": "video",
+  "w": 720,
+  "h": 958,
+  "durata": 10.43,
+  "kb": 11389,
+  "fonte": "IG 14/03/2026 DV3MKkKDPtA (reel neon→marmo→reveal)"
+ },
+ "sp-biondo": {
+  "tipo": "video",
+  "w": 540,
+  "h": 718,
+  "durata": 5.37,
+  "kb": 1181,
+  "fonte": "IG 05/03/2026 DVgqPUiDFOq"
+ },
+ "sp-colore": {
+  "tipo": "video",
+  "w": 540,
+  "h": 720,
+  "durata": 5.77,
+  "kb": 732,
+  "fonte": "IG 16/04/2026 DXL0tdIDLvG"
+ },
+ "sp-taglio": {
+  "tipo": "video",
+  "w": 540,
+  "h": 960,
+  "durata": 9.0,
+  "kb": 807,
+  "fonte": "WhatsApp titolare 05/10/2026 (taglio bob)"
+ },
+ "sp-uomo": {
+  "tipo": "video",
+  "w": 540,
+  "h": 960,
+  "durata": 9.0,
+  "kb": 1638,
+  "fonte": "IG 16/06/2026 DZqKEajsyem"
+ },
+ "sp-extension": {
+  "tipo": "video",
+  "w": 540,
+  "h": 720,
+  "durata": 11.12,
+  "kb": 716,
+  "fonte": "IG 14/10/2025 DPyl204jPze (extension)"
+ },
+ "sp-anticrespo": {
+  "tipo": "video",
+  "w": 540,
+  "h": 960,
+  "durata": 12.0,
+  "kb": 2132,
+  "fonte": "IG 18/11/2025 DRMS6ubDKY_"
+ },
+ "g-rame": {
+  "tipo": "video",
+  "w": 464,
+  "h": 832,
+  "durata": 10.45,
+  "kb": 1688,
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "g-balayage": {
+  "tipo": "video",
+  "w": 464,
+  "h": 832,
+  "durata": 6.27,
+  "kb": 1027,
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "g-onde": {
+  "tipo": "video",
+  "w": 464,
+  "h": 832,
+  "durata": 6.85,
+  "kb": 962,
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "g-biondo": {
+  "tipo": "video",
+  "w": 464,
+  "h": 832,
+  "durata": 6.73,
+  "kb": 1502,
+  "fonte": "WhatsApp titolare 05/10/2026"
+ },
+ "g-onde-bionde": {
+  "tipo": "video",
+  "w": 540,
+  "h": 720,
+  "durata": 6.5,
+  "kb": 1338,
+  "fonte": "IG 24/02/2026 DVKFjJ3DB9P"
+ },
+ "g-ghiaccio": {
+  "tipo": "video",
+  "w": 540,
+  "h": 720,
+  "durata": 12.8,
+  "kb": 2226,
+  "fonte": "IG 15/09/2026 DdTz7vCDMpo"
+ },
+ "g-raccolto": {
+  "tipo": "video",
+  "w": 540,
+  "h": 550,
+  "durata": 14.77,
+  "kb": 1365,
+  "fonte": "IG 15/09/2026 DdTyxT8DCQX"
+ },
+ "g-magenta": {
+  "tipo": "video",
+  "w": 540,
+  "h": 718,
+  "durata": 5.3,
+  "kb": 568,
+  "fonte": "IG 24/02/2026 DVKC1srjKBe"
+ },
+ "g-schiariture": {
+  "tipo": "video",
+  "w": 540,
+  "h": 720,
+  "durata": 7.63,
+  "kb": 914,
+  "fonte": "IG 29/09/2026 Dd3pFC2DPow"
+ },
+ "g-ricci": {
+  "tipo": "video",
+  "w": 464,
+  "h": 832,
+  "durata": 10.0,
+  "kb": 879,
+  "fonte": "WhatsApp titolare 05/10/2026 (Federico al lavoro)"
+ }
+}

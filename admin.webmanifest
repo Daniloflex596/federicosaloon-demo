@@ -1,0 +1,17 @@
+{
+  "name": "Agenda · Federico Saloon",
+  "short_name": "Agenda FS",
+  "description": "Le prenotazioni del salone, sempre con te.",
+  "id": "/federicosaloon-demo/admin",
+  "start_url": "/federicosaloon-demo/admin",
+  "scope": "/federicosaloon-demo/admin",
+  "display": "standalone",
+  "background_color": "#0E0F12",
+  "theme_color": "#0E0F12",
+  "lang": "it",
+  "icons": [
+    { "src": "/federicosaloon-demo/brand/icon-agenda-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/federicosaloon-demo/brand/icon-agenda-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/federicosaloon-demo/brand/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
