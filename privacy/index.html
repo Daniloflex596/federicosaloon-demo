@@ -93,9 +93,5 @@ Puoi esercitare in qualsiasi momento i diritti previsti dagli artt. 15-22 GDPR (
           if (e.persisted) togliVelo();
         });
       })();
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function () {
-          navigator.serviceWorker.register('/sw.js').catch(function () {});
-        });
-      }
+      
     </script> </body> </html> 

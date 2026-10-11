@@ -82,9 +82,5 @@ Da martedì a sabato, 9:00-19:00 · Via della Riserva Nuova 270, Roma ·
           if (e.persisted) togliVelo();
         });
       })();
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function () {
-          navigator.serviceWorker.register('/sw.js').catch(function () {});
-        });
-      }
+      
     </script> </body> </html> 

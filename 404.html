@@ -71,9 +71,5 @@ document.addEventListener('DOMContentLoaded',function(){cfg().then(function(c){i
           if (e.persisted) togliVelo();
         });
       })();
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function () {
-          navigator.serviceWorker.register('/sw.js').catch(function () {});
-        });
-      }
+      
     </script> </body> </html> 
